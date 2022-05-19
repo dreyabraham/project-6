@@ -103,9 +103,11 @@ Now lets try to connect our web server and database server using the command `su
 
 Now Change permissions and configuration so Apache could use WordPress. 
 
-TRY TO ACCESS WORDPRESS FROM OUR WEB BROWSER LINK 
+TRY TO ACCESS WORDPRESS FROM OUR WEB BROWSER 
 
-![alt text](Images/word.PNG)
+![alt text](Images/done.PNG)
+
+![alt text](Images/php.PNG)
 
 THE ABOVE SHOWS THAT WE LEARNED HOW TO CONFIGURE LINUX STORAGE AND DEPLYOYED A FULL WEB SCALE SOLUTION USING WORDPRESS AND MYSQL
 
